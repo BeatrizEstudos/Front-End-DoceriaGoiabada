@@ -8,7 +8,11 @@ Este projeto representa a interface de usuário (front-end) da Doceria Goiabada,
 
 O planejamento visual completo do projeto pode ser encontrado no seguinte link do Figma:
 
---> [EM DESENVOLVIMENTO] <--
+--> https://www.figma.com/proto/Ungr4eqdEyTJrBwjeDaIOi/Front-end-Doceria-Goiabada?node-id=0-1&t=6FUzICjlfLsUAthe-1 <--
+
+<p align="center">
+  <img src="https://i.imgur.com/zS9NUap.png" alt="Figma Doceria Goiabada"  width="1000" />
+  </p>
 
 ## Tecnologias Utilizadas
 
